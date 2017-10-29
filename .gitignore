@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Tags
+tags
+
+# VIM Session.vim
+Session.vim
